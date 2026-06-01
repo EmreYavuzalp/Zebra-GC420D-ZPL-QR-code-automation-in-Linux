@@ -2,18 +2,18 @@ Let's say we have this wifi.txt file, with inputs like this. First one is the nu
 
 5102
 
-TTNET_TP-LINK_dsadsa
+TTNET_TP-LINK_SSID1
 
 password_1
 
 5103
 
-TTNET_TP-1234
+TTNET_TP-LINK_SSID2
 
 password_2
 
 5104
 
-TurkTelekom_12345
+TurkTelekom_SSID3
 
 password_3
